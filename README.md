@@ -7,18 +7,6 @@
 
 This repository contains the official website for the FlashLearnAI application, providing information about the application, Terms of Service, and Privacy Policy documentation.
 
-## 📋 Repository Contents
-
-```
-flashcard-app-site/
-├── index.html           # Main landing page
-├── terms.html           # Terms of Service
-├── privacy.html         # Privacy Policy
-├── css/
-│   └── style.css        # Stylesheet
-└── README.md            # This file
-```
-
 ## 🚀 Deployment
 
 This website is designed to be hosted on GitHub Pages as a project site, which allows it to be hosted at `yourusername.github.io/flashcard-app-site` rather than taking up the main GitHub Pages domain.
